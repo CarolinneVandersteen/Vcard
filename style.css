@@ -6,7 +6,8 @@
 .container{
 display: flex;
 background-image: url("http://www.dezwamhoeve.be/wp-content/uploads/2015/06/Mooie-windows-achtergronden-leuke-hd-windows-wallpapers-afbeelding-plaatje-8.jpg");
-height: 100%;
+width: 100%;
+height: 1000px;
 justify-content: center;
 align-items: center;
 color: #FFF;
